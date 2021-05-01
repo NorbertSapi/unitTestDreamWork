@@ -7,7 +7,8 @@ sample2 = [5, 1, 1, 1, 1, 0, 0, 0, -1, -1, -1, -1]
 sample3 = [14, 2, -2, -3, 0, -1, 4, 0, -1, 1, 4, -2, -3, -3, -2]
 sample4 = [-123, -11, 6, 14, -1, -3, 4, 9, 1, 5, -6, 3, -10, 155, -7, 0, 14, -9, 15, 3, 11, -1, -10, -8, 5]
 # this is the variable to expected to fail
-test_to_fail = [12, 1, 0, -2, 1]
+test_to_fail1 = [12, 1, 0, -2, 1]
+test_to_fail2 = []
 
 # these are the expected list
 expected_list1 = [28, 30, 33, 30, 28, 29, 31, 66, 65, 65, 65, 64]
